@@ -2,7 +2,7 @@
 I'm Jorge, a software developer who pays attention to both aesthetics and performance.
 
 ### My Tools
-
+<img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/python.svg" alt="Python Logo" width="50"/>
 <!--
 **jreyesgfi/jreyesgfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
