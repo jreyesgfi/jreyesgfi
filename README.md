@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Jorge, a software developer who pays attention to both aesthetics and performance.
+
+### My Tools
 
 <!--
 **jreyesgfi/jreyesgfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
