@@ -2,7 +2,7 @@
 I'm Jorge, a software developer who pays attention to both aesthetics and performance.
 
 ### My Tools
-<img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/python.svg" alt="Python Logo" width="40"/> <img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/c.svg" alt="C Logo" width="40"/> <img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/c-sharp.svg" alt="C# Logo" width="40"/> <img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/js.svg" alt="JS Logo" width="40"/><img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/ts.svg" alt="TS Logo" width="40"/><img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/react.svg" alt="React Logo" width="40"/><img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/flutter.webp" alt="Flutter Logo" width="40"/>
+<img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/python.svg" alt="Python Logo" width="40"/> <img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/c.svg" alt="C Logo" width="40"/> <img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/c-sharp.svg" alt="C# Logo" width="40"/> <img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/js.svg" alt="JS Logo" width="40"/> <img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/ts.svg" alt="TS Logo" width="40"/> <img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/react.svg" alt="React Logo" width="40"/> <img src="https://github.com/jreyesgfi/jreyesgfi/blob/main/flutter.webp" alt="Flutter Logo" width="40"/> 
 <!--
 **jreyesgfi/jreyesgfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
